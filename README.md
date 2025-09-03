@@ -18,9 +18,7 @@ The project aims to analyze sales performance, customer behavior, discounts, and
 
 2.) blinkit_sales.xlsx → Cleaned dataset (2000+ rows)
 
-3.) Screenshot_2025-08-27.png → Dashboard screenshot
-
-4.) README.md → Project documentation
+3.) README.md → Project documentation
 
 
 🔑 Features
