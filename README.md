@@ -12,8 +12,6 @@ Dataset prepared in Excel (.xlsx) with 2000+ cleaned records
 
 Includes .pbix file for Power BI Desktop
 
-Dashboard screenshot for quick preview
-
 📂 Repository Structure
 
 Blinkit_Sales_Dashboard.pbix → Power BI file
