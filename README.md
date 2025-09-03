@@ -6,67 +6,64 @@ The project aims to analyze sales performance, customer behavior, discounts, and
 
 🚀 Project Overview
 
-Built using Power BI for data modeling & visualization
+1.) Built using Power BI for data modeling & visualization
 
-Dataset prepared in Excel (.xlsx) with 2000+ cleaned records
+2.) Dataset prepared in Excel (.xlsx) with 2000+ cleaned records
 
-Includes .pbix file for Power BI Desktop
+3.) Includes .pbix file for Power BI Desktop
 
 📂 Repository Structure
 
-Blinkit_Sales_Dashboard.pbix → Power BI file
+1.) Blinkit_Sales_Dashboard.pbix → Power BI file
 
-blinkit_sales.xlsx → Cleaned dataset (2000+ rows)
+2.) blinkit_sales.xlsx → Cleaned dataset (2000+ rows)
 
-Screenshot_2025-08-27.png → Dashboard screenshot
+3.) Screenshot_2025-08-27.png → Dashboard screenshot
 
-README.md → Project documentation
+4.) README.md → Project documentation
 
-📸 Dashboard Preview
-
-(Insert Blinkit Dashboard Screenshot here)
 
 🔑 Features
 
-KPIs Overview – Total Sales, Discounts, Profit, and Customer Ratings
+1.) KPIs Overview – Total Sales, Discounts, Profit, and Customer Ratings
 
-Sales Trend Analysis – Track revenue and profit over time
+2.) Sales Trend Analysis – Track revenue and profit over time
 
-Top 5 Products & Categories – Identify high-performing items (e.g., Fruits, Snacks, Dairy, etc.)
+3.) Top 5 Products & Categories – Identify high-performing items (e.g., Fruits, Snacks, Dairy, etc.)
 
-Customer Insights – Ratings, purchase patterns, and contact info analysis
+4.) Customer Insights – Ratings, purchase patterns, and contact info analysis
 
-Payment Method Analysis – Distribution across UPI, Wallets, COD, and Cards
+5.) Payment Method Analysis – Distribution across UPI, Wallets, COD, and Cards
 
-Geographic Distribution – City-wise sales performance (Delhi, Mumbai, Bangalore, etc.)
+6.) Geographic Distribution – City-wise sales performance (Delhi, Mumbai, Bangalore, etc.)
 
 ⚙️ How to Use
 
-Clone or download this repository:
+1. Clone or download this repository:
 
 git clone https://github.com/your-username/Blinkit-Sales-Dashboard.git
 
 
-Open Blinkit_Sales_Dashboard.pbix in Power BI Desktop
+* Open Blinkit_Sales_Dashboard.pbix in Power BI Desktop
 
-Use slicers and filters to interact with the dashboard
+* Use slicers and filters to interact with the dashboard
 
-Dataset (blinkit_sales.xlsx) is included for reference
+* Dataset (blinkit_sales.xlsx) is included for reference
 
 🛠 Tools & Technologies
 
-Power BI Desktop → Data visualization & reporting
+1.) Power BI Desktop → Data visualization & reporting
 
-Excel → Data cleaning & preprocessing
+2.) Excel → Data cleaning & preprocessing
 
-DAX (Data Analysis Expressions) → Custom calculations for KPIs
+3.) DAX (Data Analysis Expressions) → Custom calculations for KPIs
 
 📌 Future Enhancements
 
-Add predictive analytics for sales forecasting
+* Add predictive analytics for sales forecasting
 
-Build customer segmentation dashboards
+* Build customer segmentation dashboards
 
-Create advanced visuals (word cloud for top products, trend-based insights)
+* Create advanced visuals (word cloud for top products, trend-based insights)
 
-Publish dashboard to Power BI Service for online sharing
+* Publish dashboard to Power BI Service for online sharing
